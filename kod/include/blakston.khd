@@ -11,7 +11,7 @@
 % blakston.khd
 
    %%% General constants
-
+   ZOYCITE = 1
    TRUE = 1
    FALSE = 0
 
